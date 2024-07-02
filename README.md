@@ -3,6 +3,8 @@
     📊 Análisis estratégico para URAL AIRLINES
   </h1>
   <img src="https://i.imgur.com/cgMPZKx.png" width="900px">
+  <br> 
+  <img src="https://i.imgur.com/JsSDnRk.png" width="900px">
 </div>
 
 ---
